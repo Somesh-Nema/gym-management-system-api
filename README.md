@@ -85,4 +85,4 @@ This project provides a solid foundation. Future improvements could include:
 
 ## Contact
 
-Somesh Nema - [LinkedIn]([https://www.linkedin.com/in/somesh-nema-09a924256/])- [GitHub]([https://github.com/Somesh-Nema])
+Somesh Nema - [LinkedIn](https://www.linkedin.com/in/somesh-nema-09a924256/)- [GitHub](https://github.com/Somesh-Nema)
